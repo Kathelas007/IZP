@@ -1,4 +1,4 @@
-#Project 1 - Text editation
+# Project 1 - Text editation
 # EN
 Basic non-interactive streamline editor.
 
