@@ -1,0 +1,6 @@
+Jmeno pacienta
+rok narozeni
+Antonin Jedlicka
+1963
+Alzbeta Jedla
+1965
