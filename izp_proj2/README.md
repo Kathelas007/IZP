@@ -1,5 +1,5 @@
 # Project 2 - Iterative computations
-#EN
+# EN
 Implement natural logarithm and exponential function using math operations +,-,*,/.
 
 ---
